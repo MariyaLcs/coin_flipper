@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coin_flipper/static/css/main.5c1749cf.chunk.css",
+    "main.js": "/coin_flipper/static/js/main.eba75d98.chunk.js",
+    "main.js.map": "/coin_flipper/static/js/main.eba75d98.chunk.js.map",
+    "runtime-main.js": "/coin_flipper/static/js/runtime-main.12ea8001.js",
+    "runtime-main.js.map": "/coin_flipper/static/js/runtime-main.12ea8001.js.map",
+    "static/js/2.8fd21e1a.chunk.js": "/coin_flipper/static/js/2.8fd21e1a.chunk.js",
+    "static/js/2.8fd21e1a.chunk.js.map": "/coin_flipper/static/js/2.8fd21e1a.chunk.js.map",
+    "index.html": "/coin_flipper/index.html",
+    "precache-manifest.50ff5fdc0d98993b9b2f9a21f1ea0723.js": "/coin_flipper/precache-manifest.50ff5fdc0d98993b9b2f9a21f1ea0723.js",
+    "service-worker.js": "/coin_flipper/service-worker.js",
+    "static/css/main.5c1749cf.chunk.css.map": "/coin_flipper/static/css/main.5c1749cf.chunk.css.map",
+    "static/js/2.8fd21e1a.chunk.js.LICENSE.txt": "/coin_flipper/static/js/2.8fd21e1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12ea8001.js",
+    "static/js/2.8fd21e1a.chunk.js",
+    "static/css/main.5c1749cf.chunk.css",
+    "static/js/main.eba75d98.chunk.js"
+  ]
+}
